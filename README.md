@@ -8,3 +8,5 @@ This repository is about some codes in quantum physics and quantum chemistry. Th
  This is a very well know problem. In which we have only one parameters to determined in our problem.
  
  ## 2. The uncertaintly principle.
+
+/codacy/coverage/:projectId
