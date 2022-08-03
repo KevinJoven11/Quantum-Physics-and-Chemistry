@@ -9,4 +9,4 @@ This repository is about some codes in quantum physics and quantum chemistry. Th
  
  ## 2. The uncertaintly principle.
 
-/codacy/coverage/:projectId
+	/scrutinizer/coverage/:vcs/:user/:repo/:branch?
