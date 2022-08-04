@@ -10,3 +10,5 @@ This repository is about some codes in quantum physics and quantum chemistry. Th
  ## 2. The uncertaintly principle.
 
 	/scrutinizer/coverage/:vcs/:user/:repo/:branch?
+
+![LaTeX](/scrutinizer/coverage/:vcs/:user/:repo/:branch?style=for-the-badge&logo=latex&logoColor=white)
