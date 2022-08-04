@@ -22,6 +22,9 @@ This is a basic code in how to measure the pure and mixed stete in experimental 
 ## 4. Qiskit basic guide. ![LaTeX](https://img.shields.io/badge/COMPLETE-45%25-orange)
  
 This a guide of some commants to run in qiskit. 
+![LaTeX](https://img.shields.io/badge/IMPROVEMENTS-2-ff69b4)  
+* Improve the markdown and the written in the text.
+* Add a section for exmaples and very easy ways to initializate.
  
 ## 5. Quantum Game Theory. ![LaTeX](https://img.shields.io/badge/COMPLETE-85%25-green)
  
